@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Strongly Agree",
+		"modifier": 1,
+		"color": "#60c048",
+		"focusColor": "#4b9e37"
+	},
+	{
+		"name": "Agree",
+		"modifier": 0.5,
+		"color": "#90e880",
+		"focusColor": "#6ae055"
+	},
+	{
+		"name": "Neutral/Unsure",
+		"modifier": 0,
+		"color": "#c8c8c8",
+		"focusColor": "#aeaeae"
+	},
+	{
+		"name": "Disagree",
+		"modifier": -0.5,
+		"color": "#e88080",
+		"focusColor": "#e05555"
+	},
+	{
+		"name": "Strongly Disagree",
+		"modifier": -1,
+		"color": "#c04848",
+		"focusColor": "#9e3737"
+	}
+]

@@ -1,0 +1,101 @@
+html {
+	background-color: #99e1ff;
+	padding: 0px;
+	scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f8f8f8;
+    border-bottom-color: #eee;
+    border-bottom-width: 20px;
+    border-left: 36px solid #fde;
+    border-right: 36px solid #fde;
+    border-top-color: #eee;
+    border-top-width: 20px;
+    margin: 0 auto;
+    min-height: calc(100vh - 4em);
+    padding: 2em;
+    width: 80%;
+}
+
+h3 {
+    font-size: 22pt;
+}
+
+h3 a {
+    color: #88dcfc;
+}
+
+h3 a:visited {
+    color: #88dcfc;
+}
+
+#twitterlink {
+    margin-top: 8pt;
+}
+
+#version {
+    margin-bottom: 0pt;
+}
+
+div.center {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 8pt;
+    color: #fff;
+    display: flex;
+    flex-flow: row wrap;
+    font-family: Montserrat,sans-serif;
+    font-size: 24pt;
+    justify-content: center;
+    margin: auto;
+    min-width: 488pt;
+    padding: 6pt;
+    text-align: center;
+    text-decoration: none;
+    width: calc(100% - 2rem);
+}
+
+div.axis_name {
+    font-size: 12pt;
+}
+
+.column {
+	width: 14%;
+}
+
+.explanation_bg {
+    background-color: #f0f0f0;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+
+#Zoomer_desc {
+    color: #fff !important;
+}
+
+.button {
+    background-color: #88dcfc;
+}
+
+.button:hover {
+    background-color: #55cdfc;
+}
+
+.small_button {
+    background: #a0a0a0;    
+}
+
+.small_button:focus, .small_button:hover {
+    background: #707070;
+}
+
+#result-text {
+    margin-top: 24pt;
+    margin-bottom: 40pt;
+}
+
+#results-separator {
+    margin-top: 40pt;
+    margin-bottom: 40pt;
+}

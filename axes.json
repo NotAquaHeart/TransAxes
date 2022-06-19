@@ -1,0 +1,152 @@
+[
+	{
+		"id": "iden",
+		"name": "Identity",
+		"weights": [10, 15, 10, 10, 10, 10, 10, 15, 10],
+		"left": {
+			"name": "Tucute",
+			"color": "#ffaa33",
+			"description": "Those with higher Tucute scores believe that transgender identity is not inherently tied to dysphoria. They support including non-dysphoric trans people under the trans umbrella, tend to support the validity of non-binary and non-traditional gender identities, and tend to oppose gatekeeping."
+		},
+		"right": {
+			"name": "Transmed",
+			"color": "#60d0b0",
+			"description": "Those with higher Transmed scores believe that transgender identity is inherently tied to gender dysphoria. They support setting standards for what it means to be trans, tend to believe that gender dysphoria is an observable medical condition, and often believe in a gender binary of male and female."
+		},
+		"tiers": [
+			"Esoteric",
+			"Strongly Tucute",
+			"Tucute",
+			"Inclusive",
+			"Ambivalent",
+			"Normative",
+			"Transmedicalist",
+			"Strongly Transmedicalist",
+			"Blaire White"
+		]
+	},
+	{
+		"id": "pol",
+		"name": "Political",
+		"weights": [15, 15, 15, 10, 15, 15, 15],
+		"left": {
+			"name": "Left",
+			"color": "#ff6666",
+			"description": "Those with higher Left scores are politically left-leaning, compared to the already left-leaning trans community at large. They tend to support higher economic equality, a persistent fight in social justice, and at high values, an abolishment of corporate neoliberalism."
+		},
+		"right": {
+			"name": "Right",
+			"color": "#5090ff",
+			"description": "Those with higher Right scores are politically right-leaning, compared to the left-leaning trans community at large, meaning centrists and liberals often fall in this camp. They tend to support the status quo, favor economic liberalism and patriotism, and are often skeptical of social justice movements."
+		},
+		"tiers": [
+			"Revolutionary",
+			"Radically Left",
+			"Rose Enjoyer",
+			"Left Leaning",
+			"Right-Wing By Trans Standards",
+			"r/TraaButNoCommies Nostalgist",
+			"Staunchly Right"
+		]
+	},
+	{
+		"id": "vis",
+		"name": "Visibility",
+		"weights": [10, 15, 10, 10, 10, 10, 10, 15, 10],
+		"left": {
+			"name": "Vocalized",
+			"color": "#c060ff",
+			"description": "Those with higher Vocalized scores favor a more vocal approach to trans activism. They tend to support large trans public figures, be they in real life or online, and tend to view the discussion of trans-related issues as an open, active affair that everyone participates in."
+		},
+		"right": {
+			"name": "Low Profile",
+			"color": "#60c040",
+			"description": "Those with higher Low Profile scores favor a more modest approach to trans activism. They tend to favor one-on-one conversation over public discourse, both in real life and online, and at high values, they may favor a lowering of the general visibility of trans people."
+		},
+		"tiers": [
+			"Human Megaphone",
+			"Influencer",
+			"Outspoken",
+			"Advocate",
+			"Neutral",
+			"Mellow",
+			"Withdrawn",
+			"Private",
+			"Invisible"
+		]
+	},
+	{
+		"id": "soc",
+		"name": "Societal",
+		"weights": [10, 15, 10, 10, 10, 10, 10, 15, 10],
+		"left": {
+			"name": "Liberation",
+			"color": "#ff60ff",
+			"description": "Those with higher Liberation scores seek to liberate the trans community from cis-normative societal expectations and institutions. They tend to favor building a unique and proud identity in being transgender, and oppose many social norms, especially those that give cis people an edge in society."
+		},
+		"right": {
+			"name": "Assimilation",
+			"color": "#ffd030",
+			"description": "Those with higher Assimilation scores seek to assimilate trans people into cis-dominated society, usually out of either a need for survival, or skepticism of radical elements in the trans liberation movement. They tend to favor adherence to social norms, both aesthetically and behaviorally."
+		},
+		"tiers": [
+			"Cisphobic",
+			"Unyielding",
+			"Liberating",
+			"Progressive",
+			"Reformist",
+			"Conventional",
+			"Assimilative",
+			"Conservative",
+			"Transphobic"
+		]
+	},
+	{
+		"id": "phil",
+		"name": "Philosophy",
+		"weights": [15, 15, 15, 10, 15, 15, 15],
+		"left": {
+			"name": "Abstract",
+			"color": "#20a0c0",
+			"description": "Those with higher Abstract scores believe that being trans is an abstract experience that occurs first and foremost in the mind. They tend to utilize broad theories when discussing things related to the trans experience, and see it as an intellectual field to be expanded upon."
+		},
+		"right": {
+			"name": "Concrete",
+			"color": "#b86010",
+			"description": "Those with higher Concrete scores believe that being trans is a concrete experience that encompasses tangible steps and observable outcomes. They tend to believe in taking action in furthering one's transition, and tend not to be concerned with discussing the theoretical."
+		},
+		"tiers": [
+			"Conjectural",
+			"Idealist",
+			"Theoretical",
+			"Syncretic",
+			"Pragmatic",
+			"Realist",
+			"Utilitarian"
+		]
+	},
+	{
+		"id": "mind",
+		"name": "Mindset",
+		"weights": [15, 15, 15, 10, 15, 15, 15],
+		"left": {
+			"name": "Zoomer",
+			"color": "#f8f8f8",
+			"description": "Those with higher Zoomer scores have a cultural mindset more aligned with stereotypical Generation Z transgender culture. They tend to be well-versed in trans-related tropes, jokes, and memes online, and tend to value the internet as a hub of the trans community."
+		},
+		"right": {
+			"name": "Boomer",
+			"color": "#666666",
+			"description": "Those with higher Boomer scores have a cultural mindset more out of touch with stereotypical Generation Z transgender culture. They tend to be less well-versed in the happening and trends of the online trans community, and at times, skeptical of modern transgender culture."
+		},
+		"tiers": [
+			"Ultra Zoomer",
+			"Zoomer",
+			"Somewhat Zoomer",
+			"Balanced",
+			"Somewhat Boomer",
+			"Boomer",
+			"Ultra Boomer"
+		]
+	}
+]
