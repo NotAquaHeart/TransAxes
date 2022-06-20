@@ -229,7 +229,7 @@
     },
     {
         "number": 20,
-        "question": "Conservative values are compatible with trans advocacy.",
+        "question": "Socialist ideas have no place in the trans community.",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -529,7 +529,7 @@
     },
     {
         "number": 45,
-        "question": "I support my nation no less than I support the trans community.",
+        "question": "Certain social hierarchies, such as wealth and poverty, are natural and justified.",
         "effect": {
             "iden": 0,
             "pol": -10,
