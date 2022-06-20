@@ -32,12 +32,12 @@
 		"left": {
 			"name": "Left",
 			"color": "#ff6666",
-			"description": "Those with higher Left scores are politically left-leaning, compared to the already left-leaning trans community at large. They tend to support higher economic equality, a persistent fight in social justice, and at high values, an abolishment of corporate neoliberalism."
+			"description": "Those with higher Left scores are politically left-leaning. They tend to support higher social equality, a worker-centric economy, and at high values, an abolishment of corporate neoliberalism."
 		},
 		"right": {
 			"name": "Right",
 			"color": "#5090ff",
-			"description": "Those with higher Right scores are politically right-leaning, compared to the left-leaning trans community at large, meaning centrists and liberals often fall in this camp. They tend to support the status quo, favor economic liberalism and patriotism, and are often skeptical of social justice movements."
+			"description": "Those with higher Right scores are politically right-leaning. They tend to favor economic freedom, support certain conservative principles, and reject the left-leaning trend of the trans community at large."
 		},
 		"tiers": [
 			"Revolutionary",
