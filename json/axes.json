@@ -37,16 +37,16 @@
 		"right": {
 			"name": "Right",
 			"color": "#5090ff",
-			"description": "Those with higher Right scores are politically right-leaning. They tend to favor economic freedom, support certain conservative principles, and reject the left-leaning trend of the trans community at large."
+			"description": "Those with higher Right scores are politically right-leaning. They tend to favor economic deregulation, support certain conservative principles, and reject the left-leaning trend of the trans community at large."
 		},
 		"tiers": [
-			"Revolutionary",
-			"Radically Left",
-			"Rose Enjoyer",
-			"Left Leaning",
-			"Right-Wing By Trans Standards",
-			"r/TraaButNoCommies Nostalgist",
-			"Staunchly Right"
+			"Communist",
+			"Socialist',
+			"Center Left",
+			"Centrist",
+			"Center Right",
+			"Capitalist",
+			"Ultra-Capitalist"
 		]
 	},
 	{
