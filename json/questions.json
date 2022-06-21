@@ -217,7 +217,7 @@
     },
     {
         "number": 19,
-        "question": "Freedom of business is important to a healthy society.",
+        "question": "An unregulated market economy is important to a healthy society.",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -397,7 +397,7 @@
     },
     {
         "number": 34,
-        "question": "Trans people should participate in society no less than cis people do.",
+        "question": "Trans people should seek to assimilate into society instead of standing out.",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -649,7 +649,7 @@
     },
     {
         "number": 55,
-        "question": "All politicians and corporations, regardless of their expressed views, merely use minority struggles for profit and power.",
+        "question": "Social equality is no less important than economic growth.",
         "effect": {
             "iden": 0,
             "pol": 10,
@@ -721,7 +721,7 @@
     },
     {
         "number": 61,
-        "question": "I enjoy viewing trans-related memes online.",
+        "question": "I understand and appreciate the humor behind trans-related memes online.",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -805,7 +805,7 @@
     },
     {
         "number": 68,
-        "question": "Trans-related memes online are not very funny.",
+        "question": "I prefer the older generations of trans activists over modern ones.",
         "effect": {
             "iden": 0,
             "pol": 0,
