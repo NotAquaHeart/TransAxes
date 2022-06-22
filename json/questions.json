@@ -25,7 +25,7 @@
     },
     {
         "number": 3,
-        "question": "Trans people should denounce communist governments, and support capitalist governments, as they are more likely to support trans rights.",
+        "question": "Vigilantly enforcing national unity under traditional values is a necessary answer to the leftism of the modern age.",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -229,7 +229,7 @@
     },
     {
         "number": 20,
-        "question": "Socialist ideas have no place in the trans community.",
+        "question": "Certain people are simply better than others.",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -265,7 +265,7 @@
     },
     {
         "number": 23,
-        "question": "External transphobia is much more of a problem for trans people than internal gender dysphoria.",
+        "question": "Being trans is, at best, something to mitigate the negative effects of.",
         "effect": {
             "iden": 0,
             "pol": 0,
