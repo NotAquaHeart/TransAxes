@@ -28,25 +28,25 @@
 	{
 		"id": "pol",
 		"name": "Political",
-		"weights": [15, 15, 15, 10, 15, 15, 15],
+		"weights": [10, 20, 15, 10, 15, 20, 10],
 		"left": {
 			"name": "Left",
 			"color": "#ff6666",
-			"description": "Those with higher Left scores are politically left-leaning. They tend to support higher social equality, a worker-centric economy, and at high values, an abolishment of corporate neoliberalism."
+			"description": "Those with higher Left scores are politically left-leaning. They tend to support higher social equality and equal civil rights and opportunity for all, and tend to oppose neoliberal capitalism and other forms of oppression."
 		},
 		"right": {
 			"name": "Right",
 			"color": "#5090ff",
-			"description": "Those with higher Right scores are politically right-leaning. They tend to favor economic deregulation, support certain conservative principles, and reject the left-leaning trend of the trans community at large."
+			"description": "Those with higher Right scores are politically right-leaning. They tend to favor economic deregulation, patriotism, and possibly other conservative principles, and tend to reject the left-leaning trend of the trans community at large."
 		},
 		"tiers": [
-			"Communist",
-			"Socialist",
+			"Far Left",
+			"Left Wing",
 			"Center Left",
 			"Centrist",
 			"Center Right",
-			"Capitalist",
-			"Ultra-Capitalist"
+			"Right Wing",
+			"Far Right"
 		]
 	},
 	{
