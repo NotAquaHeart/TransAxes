@@ -108,12 +108,12 @@
 		"left": {
 			"name": "Abstract",
 			"color": "#20a0c0",
-			"description": "Those with higher Abstract scores believe that being trans is an abstract experience that occurs first and foremost in the mind. They tend to utilize broad theories when discussing things related to the trans experience, and see it as an intellectual field to be expanded upon."
+			"description": "Those with higher Abstract scores believe that being trans is an abstract experience that occurs first and foremost in the mind. They tend to enjoy discussing theories related to the trans experience, be more idealistic about its possibilities, and see it as an intellectual field to be expanded upon."
 		},
 		"right": {
 			"name": "Concrete",
 			"color": "#b86010",
-			"description": "Those with higher Concrete scores believe that being trans is a concrete experience that encompasses tangible steps and observable outcomes. They tend to believe in taking action in furthering one's transition, and tend not to be concerned with discussing the theoretical."
+			"description": "Those with higher Concrete scores believe that being trans is a concrete experience that encompasses tangible steps and observable outcomes. They tend to believe in a realistic or even pessimistic outlook of the trans experience, and tend to be less concerned with the theoretical and idealistic."
 		},
 		"tiers": [
 			"Conjectural",
