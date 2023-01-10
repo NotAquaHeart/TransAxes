@@ -6,15 +6,15 @@
 		"left": {
 			"name": "Tucute",
 			"color": "#ffaa33",
-			"description": "Those with higher Tucute scores believe that transgender identity is not inherently tied to dysphoria. They support including non-dysphoric trans people under the trans umbrella, tend to support the validity of non-binary and non-traditional gender identities, and tend to oppose gatekeeping."
+			"description": "Those with higher Tucute scores believe that dysphoria is unnecessary to identify as transgender. They tend to believe in a “trans umbrella” that includes “non-dysphoric trans people”, and tend to support MOGAI labels. Extreme tucutes may also support transrace, transabled, transage, or minor-attracted people."
 		},
 		"right": {
 			"name": "Transmed",
 			"color": "#60d0b0",
-			"description": "Those with higher Transmed scores believe that transgender identity is inherently tied to gender dysphoria. They support setting standards for what it means to be trans, tend to believe that gender dysphoria is an observable medical condition, and often believe in a gender binary of male and female."
+			"description": "Those with higher Transmed scores believe that transgender identity necessitates gender dysphoria. They support preventing anyone from saying they’re trans with no standards, expanding trans healthcare capabilities to do so, and tend to dismiss MOGAI labels as transphobic nonsense. Extreme transmedicalists may also disbelieve in nonbinary gender identity."
 		},
 		"tiers": [
-			"Esoteric",
+			"Keffals",
 			"Strongly Tucute",
 			"Tucute",
 			"Inclusive",
@@ -56,12 +56,12 @@
 		"left": {
 			"name": "Vocalized",
 			"color": "#c060ff",
-			"description": "Those with higher Vocalized scores favor a more vocal approach to trans activism. They tend to support large trans public figures, be they in real life or online, and tend to view the discussion of trans-related issues as an open, active affair that everyone participates in."
+			"description": "Those with higher Vocalized scores are outspoken trans advocates. They are often openly trans and tend to support large trans public figures in real life or online, and tend to view the discussion of trans-related issues as an open, active affair in which all trans people must participate. Those with extreme scores may be accused of making their gender their entire personality."
 		},
 		"right": {
 			"name": "Low Profile",
 			"color": "#60c040",
-			"description": "Those with higher Low Profile scores favor a more modest approach to trans activism. They tend to favor one-on-one conversation over public discourse, both in real life and online, and at high values, they may favor a lowering of the general visibility of trans people."
+			"description": "Those with higher Low Profile scores either withdraw from mainstream trans advocacy. They are less likely to be openly trans, focus more on trans people being able to pass and live a happy life over being forced to out themselves to argue about trans people, and tend to favor one-on-one conversation over public discourse. Those with extreme scores may favor a lowering of the general visibility of trans people."
 		},
 		"tiers": [
 			"Human Megaphone",
@@ -82,23 +82,23 @@
 		"left": {
 			"name": "Liberation",
 			"color": "#ff60ff",
-			"description": "Those with higher Liberation scores seek to liberate the trans community from cis-normative societal expectations and institutions. They tend to favor building a unique and proud identity in being transgender, and oppose many social norms, especially those that give cis people an edge in society."
+			"description": "Those with higher Liberation scores seek to make the trans community stand out from cis-normative society. They tend to see “transgender” as a label to flaunt and be proud of, conflate sex, gender identity, and gender expression, and oppose trans people seeking to pass as their true gender, as with many social norms."
 		},
 		"right": {
 			"name": "Assimilation",
 			"color": "#ffd030",
-			"description": "Those with higher Assimilation scores seek to assimilate trans people into cis-dominated society, usually out of either a need for survival, or skepticism of radical elements in the trans liberation movement. They tend to favor adherence to social norms, both aesthetically and behaviorally."
+			"description": "Those with higher Assimilation scores do not see cisnormative society as something trans people must change to live their best life, or be skeptic of radical cisphobic elements in the mainstream trans liberation movement. They recognize the difference between sex, gender identity, and gender expression. They tend to favor adherence to social norms, both aesthetically and behaviorally."
 		},
 		"tiers": [
-			"Cisphobic",
-			"Unyielding",
+			"Cis-oppressive",
+			"Pitchforker",
 			"Liberating",
 			"Progressive",
 			"Reformist",
 			"Conventional",
 			"Assimilative",
 			"Conservative",
-			"Transphobic"
+			"If-it-ain’t-broke"
 		]
 	},
 	{
@@ -116,13 +116,13 @@
 			"description": "Those with higher Concrete scores believe that being trans is a concrete experience that encompasses tangible steps and observable outcomes. They tend to believe in a realistic or even pessimistic outlook of the trans experience, and tend to be less concerned with the theoretical and idealistic."
 		},
 		"tiers": [
-			"Conjectural",
-			"Idealist",
+			"Pie-in-the-sky",
+			"Fantastical",
 			"Theoretical",
 			"Syncretic",
 			"Pragmatic",
 			"Realist",
-			"Utilitarian"
+			"No-nonsense"
 		]
 	},
 	{
@@ -140,13 +140,13 @@
 			"description": "Those with higher Boomer scores have a cultural mindset more out of touch with stereotypical Generation Z transgender culture. They tend to be less well-versed in the happening and trends of the online trans community, and at times, skeptical of modern transgender culture."
 		},
 		"tiers": [
-			"Ultra Zoomer",
+			"Terminally online",
 			"Zoomer",
-			"Somewhat Zoomer",
+			"Made a TikTok once",
 			"Balanced",
-			"Somewhat Boomer",
+			"Still uses Facebook",
 			"Boomer",
-			"Ultra Boomer"
+			"Kids these days..."
 		]
 	}
 ]
